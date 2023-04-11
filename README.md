@@ -1,1 +1,1 @@
-# DiscordBot_OpenAI
+# Discord Bot with ChatGPT API
